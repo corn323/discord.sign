@@ -1,0 +1,27 @@
+{
+  "name": "discord.sign",
+  "version": "1.1.",
+  "description": "點名系統",
+  "main": "discordSign.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "discordSign.js"
+  ],
+  "keywords": [
+    "discord.sign",
+    "點名系統",
+    "signSystem",
+    "簽到系統",
+    "sign",
+    "會議",
+    "meeting"
+  ],
+  "git repositoty":"https://github.com/corn323/discord.sign",
+  "author": "wingsky34",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
