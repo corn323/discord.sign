@@ -3,11 +3,11 @@
 ![npm version](https://img.shields.io/badge/npm%20version-1.1.0-blue)
 
 # SignSystem
-#### A simple sign-in system for Discord.
+#### A simple roll-call-system for Discord. You can have meeting at Discord.
 
 # 簽到系統
 #### 此簽到系統基於discord.js@13.3.1開發，可在discord.js@13.10.3上正常運行，用於在Discord會議上進行簽到。
-#### 目前版本：1.1(僅更改README內容)
+#### 目前版本：1.1.1(僅更改README內容)
 
 ## 如何使用
 #### 在你的Discord伺服器上安裝discord.js，並把此系統的程式碼放到你的檔案中。你需要先在Discord Developer Portal中建立好一個Bot，並在機器人中心中取得機器人的TOKEN，以及在你的伺服器中創建好所需要的頻道和角色。
