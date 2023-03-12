@@ -16,9 +16,15 @@
     "簽到系統",
     "sign",
     "會議",
-    "meeting"
+    "meeting",
+    "點名",
+    "roll-call",
+    "簽到"
   ],
-  "git repositoty":"https://github.com/corn323/discord.sign",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/corn323/discord.sign"
+  },
   "author": "wingsky34",
   "license": "ISC",
   "dependencies": {
